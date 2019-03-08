@@ -48,8 +48,8 @@
 	color: var(--github-red);
 }
 
-.mergeability-details > .js-details-container > .pr-review-tools {
-	margin-top: -20px;
+.is-stuck .diffbar .pr-review-tools {
+	margin-top: -20px !important;
 }
 
 .mergeability-details .branch-action-item-icon {
