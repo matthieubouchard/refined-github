@@ -47,6 +47,11 @@
 .mergeability-details .js-details-container .text-red + .status-meta {
 	color: var(--github-red);
 }
+
+.mergeability-details > .js-details-container > .pr-review-tools {
+	margin-top: -20px;
+}
+
 .mergeability-details .branch-action-item-icon {
 	margin-top: -4px;
 }
